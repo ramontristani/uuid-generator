@@ -1,0 +1,17 @@
+{
+  "name": "uuid-generator",
+  "version": "1.0.0",
+  "description": "UUID generator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon E. Tristani",
+  "license": "MIT",
+  "dependencies": {
+    "jsonfile": "^2.1.2",
+    "lodash": "^3.9.3",
+    "node-uuid": "^1.4.3",
+    "prompt": "^0.2.14"
+  }
+}
