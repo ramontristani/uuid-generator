@@ -21,7 +21,7 @@ prompt.get(['total', 'path'], function(error, input) {
 				console.log('Adding: ', id);
 				ids.push(id);
 			} else {
-				i++;
+				i--;
 			}
 		}
 		
